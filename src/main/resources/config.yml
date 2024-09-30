@@ -1,0 +1,17 @@
+# Configuration file for RankManager Plugin
+
+sql:
+  host: "127.0.0.1"
+  port: 3306
+  username: "root"
+  password: "password"
+  database: "minecraft"
+
+#As long as a "lang-LANG" file exists in the lang folder, you can use whatever language name you want
+language: "en"
+
+#If this group doesn't exist, it'll be created.
+default-group: "default"
+
+#If set to true, the plugin will automatically supply the prefix, that can still be obtained via PlaceholderAPI
+supply-prefix: true

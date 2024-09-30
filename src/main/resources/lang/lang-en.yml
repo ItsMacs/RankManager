@@ -1,0 +1,19 @@
+#English Language file for RankManager
+
+#Errors
+no-permission: "&cYou don't have permission!"
+group-already-exists: "&cThis group already exists!"
+group-doesnt-exist: "&cThis group doesn't exist!"
+
+group-created: "&aGroup created!"
+group-deleted: "&aGroup deleted!"
+prefix-set: "&aPrefix set!"
+prefix-deleted: "&aPrefix deleted!"
+member-permanent-added: "&aPermanent member added!"
+member-timed-added: "&aTimed member added!"
+member-removed: "&aMember removed!"
+permission-added: "&aPermission added!"
+permission-removed: "&aPermission removed!"
+
+infinite: "Infinite"
+rank-info: "&7Rank info:\n&eGroup Name: &f%name\n&ePrefix: &f%prefix\n&eExpiration: &f%expiration"

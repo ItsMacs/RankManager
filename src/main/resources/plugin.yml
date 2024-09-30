@@ -1,0 +1,14 @@
+name: RankManager
+version: '${project.version}'
+main: eu.macsworks.rankmanager.RankManager
+api-version: 1.20
+authors: [Alice Benedetti]
+description: Plugin to manage ranks
+website: macsworks.eu
+
+softdepend:
+  - PlaceholderAPI
+
+depend:
+  - helper
+  - helper-sql
